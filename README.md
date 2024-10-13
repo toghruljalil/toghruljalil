@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @toghruljalil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-toghruljalil/toghruljalil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# HI THERE!👋
+---
+- I'm studying on Kocaeli University 👨🏻‍🎓
+- I'm currently working on a project given by university 👨🏻‍💻
+- I'm currently learning Java 🍵
+---
+How to reach me 📧 :
+- tcelil2006@gmail.com
+---
